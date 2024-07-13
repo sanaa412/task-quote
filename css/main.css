@@ -1,0 +1,39 @@
+.quote{
+   text-align: center;
+}
+
+h1{
+font-size: 80px;
+font-family: Impact;
+margin-top: 50px;
+font-weight: bolder;
+
+
+}
+
+#btn{
+width: 240px;
+height:70px;
+background-color: blue;
+color: white;
+ }
+
+ #btn:hover{
+    background-color: green;
+ }
+
+ #text {
+    font-family: 60px;
+ }
+ p{
+    font-size: 35px;
+    margin: 42px;
+    font-family:'Times New Roman', Times, serif;
+ }
+
+
+
+
+
+
+
